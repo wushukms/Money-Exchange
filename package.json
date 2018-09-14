@@ -15,6 +15,7 @@
     "url": "https://github.com/SergeyKovalchuk/Money-Exchange/issues"
   },
   "devDependencies": {
+    "concurrently": "^4.0.1",
     "mocha": "^3.2.0"
   },
   "homepage": "https://github.com/SergeyKovalchuk/Money-Exchange#readme"
